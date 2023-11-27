@@ -118,3 +118,5 @@ public class MainClass
         {
             Console.Write(memoria.espaciosLibres[i]);
         }
+    }
+}
